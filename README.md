@@ -1,3 +1,3 @@
 Live Demo: [Customers](https://crestanzio.github.io/customers-react/)
 
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+<a href="https://crestanzio.github.io/customers-react/" target="_blank">Customers</a>
