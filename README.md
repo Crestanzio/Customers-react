@@ -1,3 +1,3 @@
 # Live Demo
 
-[Customers](https://crestanzio.github.io/customers-react/) a
+[Customers](https://crestanzio.github.io/customers-react/)
