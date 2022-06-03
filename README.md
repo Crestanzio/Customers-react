@@ -1,1 +1,1 @@
-Live Demo: [Customers](https://crestanzio.github.io/customers-react/){target="_blank"}
+Live Demo: [Customers](https://crestanzio.github.io/customers-react/){:target="\_blank"}
