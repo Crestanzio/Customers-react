@@ -1,0 +1,134 @@
+table {
+  border-collapse: inherit !important;
+  width: 80% !important;
+  vertical-align: middle !important; 
+}
+.table>:not(caption)>*>* {
+  padding: 5px !important;
+}
+
+h6{
+  margin-bottom: 0 !important;
+}
+
+tr:hover {
+  background-color: #f8f9fa;
+}
+
+.header, .header:hover {
+  color: #035397 !important;
+  font-weight: bold !important;
+}
+
+.user-text {
+  color: #035397 !important;
+}
+
+.user-text > td:hover {
+  color: #001d6e !important;
+  font-weight: 500;
+}
+
+.user-icon {
+  margin-right: 10px;
+}
+
+.question-icon {
+  margin-left: 10px;
+  color: #5a637d;
+}
+
+.status-col {
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+  text-align: center;
+}
+
+.question-col {
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+  text-align: center;
+  color: gray;
+  font-weight: 500;
+  font-size: small;
+}
+
+.user-icon-cel {
+  font-weight: 600;
+}
+
+.formchecker {
+  display: inline-block;
+}
+
+.type-form {
+  display: inline-block;
+  padding-left: 10px;
+  font-weight: bold !important;
+}
+
+.box-employee {
+  display: inline-block;
+  vertical-align: middle !important;
+  margin-left: 10px;
+  width: 45px;
+  height: 35px;
+  background-color: #FF4136;
+  color: #000;
+  text-align: center !important;
+  padding: 6% 0;
+}
+
+.box-employee::after {
+  content: "EM";
+}
+
+.box-guest {
+  display: inline-block;
+  vertical-align: middle !important;
+  margin-left: 10px;
+  width: 45px;
+  height: 35px;
+  background-color: #5c85d6;
+  color: #000;
+  text-align: center !important;
+  padding: 6% 0;
+}
+
+.box-guest::after {
+  content: "GU";
+}
+
+.box-stakeholder {
+  display: inline-block;
+  vertical-align: middle !important;
+  margin-left: 10px;
+  width: 45px;
+  height: 35px;
+  background-color: #ff944d;
+  color: #000;
+  text-align: center !important;
+  padding: 6% 0;
+}
+
+.box-stakeholder::after {
+  content: "ST";
+}
+
+.box-supervisor {
+  display: inline-block;
+  vertical-align: middle !important;
+  margin-left: 10px;
+  width: 45px;
+  height: 35px;
+  background-color: #7FDBFF;
+  color: #000;
+  text-align: center !important;
+  padding: 6% 0;
+}
+
+.box-supervisor::after {
+  content: "SU";
+}
